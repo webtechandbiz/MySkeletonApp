@@ -10,3 +10,4 @@ A skeleton app in Dart to connect a mobile phone to a WordPress website: Login a
 - Obscure password field
 - Labels localization
 - Save the login username/password
+- Fetch WooCommerce orders (if there are any)
