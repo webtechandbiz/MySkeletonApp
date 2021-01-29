@@ -8,8 +8,11 @@ View post_title, post_description and thumbnail image of the selected post.
 - https://pub.dev/packages/flutter_html
   
   Add the following lines after "cupertino_icons" in pubspec.yaml
+  
   http: ^0.12.2
+  
   flutter_html: ^1.1.1
+  
   url_launcher: ^5.7.10
   
 
